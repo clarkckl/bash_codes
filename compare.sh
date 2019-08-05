@@ -1,5 +1,14 @@
 #!/bin/bash
 
+
+# ---------------------------------------------------------
+# this bash code compares files in two folders
+# it moves the files in folder_1 to 
+# 2 different folders: folder_same and folder_extra
+# ---------------------------------------------------------
+
+
+
 if [ 0 == 1 ]; then
     echo "hi"
 else
